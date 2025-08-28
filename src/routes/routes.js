@@ -40,11 +40,10 @@ router.get('/*', (c) => {
   </head>
   <body>
     <h1>
-      bro please stop using unnececery resources by making request to the
-      endpoints which is not even exist
+   The is only one King TGA
     </h1>
     <p>if you want anything you can contact me here :</p>
-    <a href="https://t.me/Mst83din">here</a>
+    <a href="https://t.me/">here</a>
   </body>
 </html>
 
