@@ -56,7 +56,7 @@ router.get('/*', (c) => {
   <body>
     <div class="text-center px-4">
       <h1 class="text-5xl md:text-6xl font-bold text-indigo-400 mb-6 animate-pulse">
-        The is only one King TGA
+        There is only one King TGA
       </h1>
       <p class="text-lg md:text-xl text-gray-300 mb-8">
         If you want anything, you can contact me here:
